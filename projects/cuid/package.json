@@ -1,0 +1,30 @@
+{
+  "name": "@fireflysemantics/cuid",
+  "version": "1.0.10",
+  "license": "MIT",
+  "description": "Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.",
+  "keywords": [
+    "guid",
+    "id",
+    "uid",
+    "unique id",
+    "uuid"
+  ],
+  "peerDependencies": {
+    "tslib": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/fireflysemantics/cuid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fireflysemantics/cuid"
+  },
+  "comments": {
+    "global dependencies": {
+      "@jsdevtools/version-bump-prompt global install": "npm install -g @jsdevtools/version-bump-prompt",
+      "npm-check-updates": "npm install -g npm-check-updates",
+      "npm-install-peers": "npm install -g npm-install-peers"
+    }
+  }
+}
