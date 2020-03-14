@@ -4,7 +4,6 @@
 
 ```
 npm i -S @fireflysemantics/cuid
-npm i -S @types/node
 npm i -S tslib
 ```
 
