@@ -1,7 +1,5 @@
 # Cuid
 
-## Usage# Cuid
-
 ## Install
 
 ```
