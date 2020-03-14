@@ -1,6 +1,6 @@
 {
-  "name": "cuid",
-  "version": "1.0.0",
+  "name": "@fireflysemantics/cuid",
+  "version": "1.0.2",
   "peerDependencies": {
     "@types/node": "*",
     "tslib": "*"

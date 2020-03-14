@@ -1,5 +1,13 @@
 # Cuid
 
+## Install
+
+```
+npm i -S @fireflysemantics/cuid
+npm i -S @types/node
+npm i -S tslib
+```
+
 ## Usage
 
 This version of `cuid` is built mainly for the Typescript / Browser use case only.  For node or react native, use [cuid](https://www.npmjs.com/package/cuid).
