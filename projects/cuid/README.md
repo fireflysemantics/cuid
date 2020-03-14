@@ -12,12 +12,18 @@ npm i -S tslib
 
 This version of `cuid` is built mainly for the Typescript / Browser use case only.  For node or react native, use [cuid](https://www.npmjs.com/package/cuid).
 
+Identifiers generated with `cuidSlug` will be shorter:
+
+
 ```
-import { cuid } from "@fireflysemantics/cuid"
-const id = cuid()
+import { cuid, cuidSlug as slug } from '@fireflysemantics/cuid';
+console.log( `cuid: ${cuid()}`);
+console.log( `slug: ${slug()}` );
 ```
 
 [Stackblitz Demo](https://stackblitz.com/edit/cuid-stackblitz?file=index.ts)
+
+[Generating Collision Resistant Fast Unique IDs with Typescript](https://medium.com/@ole.ersoy/generating-collision-resistant-fast-unique-ids-d7a9d1286d9c)
 
 ## Build
 
