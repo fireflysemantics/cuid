@@ -1,6 +1,6 @@
 {
   "name": "@fireflysemantics/cuid",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "MIT",
   "description": "Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.",
   "keywords": [
