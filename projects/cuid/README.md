@@ -19,6 +19,8 @@ import { cuid } from "@fireflysemantics/cuid"
 const id = cuid()
 ```
 
+[Stackblitz Demo](https://stackblitz.com/edit/cuid-stackblitz?file=index.ts)
+
 ## Build
 
 Run `npm run b` to build the project. The build artifacts will be stored in the `dist/` directory.
